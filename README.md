@@ -32,7 +32,7 @@
     <li>
       <a href="#model">Model</a>
       <ul>
-        <li><a href="#https://github.com/Skyline-9/U2-Background-Removal#residual-u-block-rsu">ReSidual U-Block (RSU)</a></li>
+        <li><a href="#residual-u-block-rsu">ReSidual U-Block (RSU)</a></li>
         <li><a href="#architecture">Architecture</a></li>
         <li><a href="#loss-function">Loss Function</a></li>
       </ul>
