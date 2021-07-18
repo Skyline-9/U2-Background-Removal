@@ -32,15 +32,11 @@
     <li>
       <a href="#model">Model</a>
       <ul>
-        <li><a href="#residual-u-block (RSU)">ReSidual U-Block (RSU)</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#https://github.com/Skyline-9/U2-Background-Removal#residual-u-block-rsu">ReSidual U-Block (RSU)</a></li>
+        <li><a href="#architecture">Architecture</a></li>
+        <li><a href="#loss-function">Loss Function</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#citation">Citation</a></li>
   </ol>
 </details>
@@ -76,6 +72,8 @@ contextual information
 ### Architecture
 ![image](https://user-images.githubusercontent.com/51864049/126053026-14062cc9-3e8d-4b78-b16a-69156b249931.png)
 
+### Loss Function
+![image](https://user-images.githubusercontent.com/51864049/126053116-92e5ff09-225b-4c77-ad1c-ebe05f0d3192.png)
 
 <!-- Citation -->
 ## Citation
