@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Skyline-9/U2-Background-Removal">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.jpeg" alt="Logo" width="140" height="120">
   </a>
 
   <h3 align="center">U2 Background Removal</h3>
