@@ -96,6 +96,7 @@ _Credit: original paper_
 - [ ] Evaluation metrics
   - Precision recall curve, F-measure, Mean Absolute Error
 - [ ] Add support for video
+- [ ] Set up web version with Tensorflow.js
 
 <!-- Citation -->
 ## Citation
