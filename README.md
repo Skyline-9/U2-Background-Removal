@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Skyline-9/U2-Background-Removal">
-    <img src="logo.jpeg" alt="Logo" width="140" height="120">
+    <img src="logo.jpeg" alt="Logo" width="140" height="120" >
   </a>
 
   <h3 align="center">U2 Background Removal</h3>
@@ -73,10 +73,27 @@ contextual information
 3. A residual connection which fuses local features and the multi-scale features
 
 ### Architecture
+
+> In encoder stages En 1, En 2, En 3 and En 4, we use residual U-blocks RSU-7, RSU-6, RSU-5 and RSU-4, respectively. As mentioned before, “7”, “6”, “5” and “4” denote the heights (L) of RSU blocks. The L is usually configured according to the spatial resolution of the input feature maps.
+
 ![image](https://user-images.githubusercontent.com/51864049/126053026-14062cc9-3e8d-4b78-b16a-69156b249931.png)
 
 ### Loss Function
 ![image](https://user-images.githubusercontent.com/51864049/126053116-92e5ff09-225b-4c77-ad1c-ebe05f0d3192.png)
+
+### Model Comparison
+Comparison of model size and performance of the U2-Net with other state-of-the-art SOD models
+![image](https://user-images.githubusercontent.com/51864049/128290813-aaf7faf2-a248-45d7-a1cd-17bee73d0a33.png)
+
+_Credit: original paper_
+
+<!-- Future Plans -->
+## Next Steps
+- [ ] Data augmentation
+  - The original paper performed image augmentation by horizontally flipping the training set
+- [ ] Evaluation metrics
+  - Precision recall curve, F-measure, Mean Absolute Error
+- [ ] Add support for video
 
 <!-- Citation -->
 ## Citation
