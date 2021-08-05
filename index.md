@@ -38,8 +38,10 @@
         <li><a href="#residual-u-block-rsu">ReSidual U-Block (RSU)</a></li>
         <li><a href="#architecture">Architecture</a></li>
         <li><a href="#loss-function">Loss Function</a></li>
+        <li><a href="#model-comparison">Model Comparison</a></li>
       </ul>
     </li>
+    <li><a href="#next-steps">Next Steps</a></li>
     <li><a href="#citation">Citation</a></li>
   </ol>
 </details>
@@ -94,6 +96,7 @@ _Credit: original paper_
 - [ ] Evaluation metrics
   - Precision recall curve, F-measure, Mean Absolute Error
 - [ ] Add support for video
+- [ ] Set up web version with Tensorflow.js
 
 <!-- Citation -->
 ## Citation
