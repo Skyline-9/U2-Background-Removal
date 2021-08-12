@@ -91,7 +91,7 @@ _Credit: original paper_
 
 <!-- Future Plans -->
 ## Next Steps
-- [ ] Data augmentation
+- [x] Data augmentation
   - The original paper performed image augmentation by horizontally flipping the training set
 - [ ] Evaluation metrics
   - Precision recall curve, F-measure, Mean Absolute Error
